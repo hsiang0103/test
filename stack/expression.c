@@ -150,5 +150,3 @@ int hierarchy(char operand)
         return 0;
     }
 }
-
-// A+B*C^(2^3)/(A+B)//
